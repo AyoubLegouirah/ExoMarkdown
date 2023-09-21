@@ -1,0 +1,1 @@
+##### Markdown est un moyen facile d'écrire du texte avec une mise en forme légère en utilisant des symboles simples. Vous pouvez l'utiliser pour créer des titres, des listes, mettre du texte en gras ou en italique, insérer des liens, des images, et même afficher du code. C'est un moyen rapide et lisible d'organiser du contenu.
